@@ -29,6 +29,8 @@ In Steinwandel et al. (2020a) we investigated the emergence of the large-scale d
 
 ### Magneto-centrifugal outflows in disc galaxies
 
+In Steinwandel (2020c), I recently proposed a scenario for how magnetic fields could contribute to outflow launching in more massive galaxies based on super-equipartition magnetic fields in the galactic center that are amplified by sheared radial motions in bar formation processes. Therefore, I derived magnetic field growth in galaxies under the assumption of radial flows that originate from dynamical oscillations due to the presence of non-axis symmetric potentials, such as a bar potential and showed that one can get a zeroth order net growth of the toroidal component of the central magnetic field by this radial flows. Under the assumption that the alpha^2-Omega dynamo already amplified the field to equipartition field strength one can show that resulting field can reach low Plasmabeta values of around  0.1 in the galactic center. However, a Plasmabeta of 0.1 alone is not enough to generate an outflow based on magnetic fields.     
+
 ### Supernova-Driven Outflows and star-by-star simulations of dwarf galaxies
 
 ### Magnetic field amplification in the Intracluster medium
