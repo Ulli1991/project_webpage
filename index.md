@@ -25,6 +25,8 @@ Magnetic field amplification galaxies is a highly complicated topic. However, in
 
 ### Magnetic field amplifcation in Milky Way-like galaxies II: The large-scale dynamo
 
+In follow up work to Steinwandel et al. (2019) we investigated the how the large-scale 
+
 ### Magneto-centrifugal outflows in disc galaxies
 
 ### Supernova-Driven Outflows and star-by-star simulations of dwarf galaxies
