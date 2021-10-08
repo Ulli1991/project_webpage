@@ -1,12 +1,35 @@
 ## Welcome to the Webpage of Dr. Ulrich Philipp Steinwandel!
 
-You can use the [editor on GitHub](https://github.com/Ulli1991/project_webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My Name is Ulrich Steinwandel but I go by Ulli. If you are interested to talk to me about my research or collaborating with me, please feel free to contact me at usteinwandel@flatironinstitute.org 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### About me
+I am a theoretical astropysicist and I successfully defended my PhD-thesis in October 2020 at the Ludwigs-Maximilian University in Munich, working with Dr. Benjamin P. Moster, Dr. Thorsten Naab and Dr. Klaus Dolag. Currently, I am a Flatiron Research Fellow (FRF) at the Center for Computational Astropysics (CCA) at the Flatiron Institute in New York. I work closely with Dr. Rachel Somerville, Dr. Greg Bryan and Dr. Christopher C. Hayward on numerical simulations ranging from galaxy-clusters and the Intracluster medium (ICM) over Milky Way-like disc galaxies down to resolved star-by-star dwarf galaxy models that can sucessfully resolve the ISM on sub-parsec scales. Hereby, I put a special focus on understanding the origin and emergence of the magnetic field structure in the ICM, the intergalactic medium (IGM) and the ISM. Additionally, to my expertise on magnetic fields on all scale in the Unviverse, I carry out work on simulations with a direct dust component in close collaboration with Dr. Philip Hopkins at Caltech, extending my range down to the smallest scales in the ISM that boarder planet formation. 
 
-My name is Ulrich Steinwandel but I go by Ulli. I am a theoretical astropysicist and I successfully defended my PhD-thesis in October 2020 at the Ludwigs-Maximilian University in Munich, working with Dr. Benjamin P. Moster, Dr. Thorsten Naab and Dr. Klaus Dolag. Currently, I am a Flatiron Research Fellow (FRF) at the Center for Computational Astropysics (CCA) at the Flatiron Institute in New York. I work closely with Dr. Rachel Somerville, Dr. Greg Bryan and Dr. Christopher C. Hayward on numerical simulations ranging from galaxy-clusters and the Intracluster medium (ICM) over Milky Way-like disc galaxies down to resolved star-by-star dwarf galaxy models that can sucessfully resolve the ISM on sub-parsec scales. Hereby, I put a special focus on understanding the origin and emergence of the magnetic field structure in the ICM, the intergalactic medium (IGM) and the ISM. Additionally, to my expertise on magnetic fields on all scale in the Unviverse, I carry out work on simulations with a direct dust component in close collaboration with Dr. Philip Hopkins at Caltech, extending my range down to the smallest scales in the ISM that boarder planet formation. Please contact me at usteinwandel@flatironinstitute.org if you are interested in collaborating with me on any of the these topics. 
+## Short CV
+
+Apr. 2021 - Apr. 2024: Flatiron Research Fellow (FRF Prize Fellowship), Center for Computational Astrophysics (CCA), New York, USA <br/>
+Feb. 2017 - Oct. 2020: PhD in theoretical and numerical astrophysics (summa cum laude), LMU Munich/MPA Garching, Germany <br/>
+Jun. 2018 - Sep. 2018: Fellow in the Kavli Summer Program in Astrophysics at CCA, New York, USA <br/>
+Oct. 2014 - Jan. 2017: M.Sc. in Physics (GPA 4.0), University of Konstanz, Konstanz, Germany <br/>
+Oct. 2011 - Sep. 2014: B.Sc. in Physics (GPA 3.3), University of Konstanz, Konstanz, Germany <br/>
+Sep. 2001 - Jun. 2010: Highschool Diploma (Abitur), Gymnasium Ueberlingen, Ueberlingen, Germany  
+
+You can download my full CV here!
+
+## Research
+
+### Magnetic field amplifcation in Milky Way-like galaxies I: The small-scale-turbulent dynamo
+
+### Magnetic field amplifcation in Milky Way-like galaxies II: The large-scale dynamo
+
+### Magneto-centrifugal outflows in disc galaxies
+
+### Supernova-Driven Outflows and star-by-star simulations of dwarf galaxies
+
+### Magnetic field amplification in the Intracluster medium
+
+## Ongoing Projects
 
 ```markdown
 Syntax highlighted code block
