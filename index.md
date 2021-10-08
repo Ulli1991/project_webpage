@@ -21,6 +21,8 @@ You can download my full CV here!
 
 ### Magnetic field amplifcation in Milky Way-like galaxies I: The small-scale-turbulent dynamo
 
+Magnetic field amplification galaxies is a highly complicated topic. However, in recent years direct numerical MHD simualtions of galaxies with cooling and star formation have enabled a new way of studying magnetic field amplifcation in the Universe besides the excellent analtyical work provided by classical mean field dynamo theory (e.g. Ruzmaikin, Sokoloff and SHukurov 1988). Recent, breakthrough in numerical simulations allows for ab-initio models for magnetic field growth in galaxies showing overwhelming evidence by many different groups that magnetic fields in galaxies can be quickly amplified by the small-scale turbulent dynamo on rather short timescale compared to the dynamical time. In Steinwandel et. al. (2019) we studied the magnetic field amplification in Milky Way-like galaxies by means of the small-scale turbulent dynamo in great detail. We evlauted the presence of the small-scale trubulent dynamo by the shape of the magnetic power-spectra that take the predicted slope of k^{3/2} of Kazantsev 1967. We furthemore quantified the dynamo for the first time in galaxy simulation by computing the correlation between magnetic field strength and magnetic curvature and find excellent agreement with the high-resolution predcitions from Schkochihin et al. (2004).
+
 ### Magnetic field amplifcation in Milky Way-like galaxies II: The large-scale dynamo
 
 ### Magneto-centrifugal outflows in disc galaxies
