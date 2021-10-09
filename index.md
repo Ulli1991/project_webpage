@@ -17,7 +17,7 @@ Sep. 2001 - Jun. 2010: Highschool Diploma (Abitur), Gymnasium Ueberlingen, Ueber
 
 You can download my full CV here!
 
-## Research
+## Research (peer reviewed and submitted)
 
 ### Magnetic field amplifcation in Milky Way-like galaxies I: The small-scale-turbulent dynamo
 
