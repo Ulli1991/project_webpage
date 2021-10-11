@@ -3,8 +3,6 @@ youtubeId: YFey9a4ZSmI
 youtubeId2: cPTjyYlVmD4
 ---
 
-you can use an inline formula $$\forall x \in R$$ like this one
-
 ## Welcome to the Webpage of Dr. Ulrich Philipp Steinwandel!
 
 My Name is Ulrich Steinwandel but I go by Ulli. I am Flatiron Research Fellow at the Center for Computational Astrophysics (CCA) in New York. At CCA I am involved in the CAMELS and SMAUG collaboration. If you are interested to talk to me about my research or collaborating with me, please feel free to contact me at usteinwandel@flatironinstitute.org 
@@ -51,7 +49,7 @@ Morevoer, I derived an easy toy-model to evaluate if magnetic-driven outflows co
 Below one can see the cosmological evolution of a massive galaxy cluster ($2 \cdot 10^{15} M_{\odot}$.) with magnetic fields and anisotropic thermal conduction. The simulation is targeted to model the plasma-astrophysics aspect of the ICM in great detail with a spatial resolution that reaches up to 0.1 kpc and a mass resolution of around $`5 \cdot 10^{5} M_{\odot}`$ per gas cell in the simualtion framework. The total runtime of the simulation from redshift 380 down to redshift 0 is about 3.5 million core hours and ran on state-of-the-art supercomputer for around 5 weeks. $a^2 + b^2 = c^2$
 
 Lets display an equation
-$a^2 + b^2 = c^2$
+$$\forall x \in R$$
 
 {% include youtubePlayer.html id=page.youtubeId %}
 {% include youtubePlayer.html id=page.youtubeId2 %}
