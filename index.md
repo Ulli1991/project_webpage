@@ -2,7 +2,6 @@
 youtubeId: YFey9a4ZSmI
 youtubeId2: cPTjyYlVmD4
 ---
-{% include lib/mathjax.html %}
 
 ## Welcome to the Webpage of Dr. Ulrich Philipp Steinwandel!
 
@@ -12,8 +11,8 @@ My Name is Ulrich but I go by Ulli. I am Flatiron Research Fellow at the Center 
 
 I am a theoretical astropysicist and I successfully defended my PhD-thesis in October 2020 at the Ludwigs-Maximilian University in Munich, working with Dr. Benjamin P. Moster, Dr. Thorsten Naab and Dr. Klaus Dolag. Currently, I am a Flatiron Research Fellow (FRF) at the Center for Computational Astropysics (CCA) at the Flatiron Institute in New York. I work closely with Dr. Rachel Somerville, Dr. Greg Bryan and Dr. Christopher C. Hayward on numerical simulations ranging from galaxy-clusters and the Intracluster medium (ICM) over Milky Way-like disc galaxies down to resolved star-by-star dwarf galaxy models that can sucessfully resolve the ISM on sub-parsec scales. Hereby, I put a special focus on understanding the origin and emergence of the magnetic field structure in the ICM, the intergalactic medium (IGM) and the ISM. Additionally, to my expertise on magnetic fields on all scale in the Unviverse, I carry out work on simulations with a direct dust component in close collaboration with Dr. Philip Hopkins at Caltech, extending my range down to the smallest scales in the ISM that boarder planet formation. 
 
+{% include lib/mathjax.html %}
 ## Short CV
-
 Apr. 2021 - Apr. 2024: Flatiron Research Fellow (FRF Prize Fellowship), Center for Computational Astrophysics (CCA), New York, USA <br/>
 Feb. 2017 - Oct. 2020: PhD in theoretical and numerical astrophysics (summa cum laude), LMU Munich/MPA Garching, Germany <br/>
 Jun. 2018 - Sep. 2018: Fellow in the Kavli Summer Program in Astrophysics at CCA, New York, USA <br/>
