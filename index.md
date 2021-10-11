@@ -51,10 +51,10 @@ In the last part I was abl to link this back to resolved simulations of supernov
 
 Below one can see the cosmological evolution of a massive galaxy cluster ($$2 \cdot 10^{15} M_{\odot}$$) with magnetic fields and anisotropic thermal conduction. The simulation is targeted to model the plasma-astrophysics aspect of the ICM in great detail with a spatial resolution that reaches up to $$0.1$$ kpc and a mass resolution of around $$5 \cdot 10^{5} M_{\odot}$$ per gas cell in the simualtion framework. The total runtime of the simulation from redshift $$z=380$$ down to redshift $$z=0$$ is about $$3.5$$ million core hours and ran on state-of-the-art supercomputer for around $$5$$ weeks.
 
-Lets kep this a comment for now.
-$$\forall x \in R$$
-
 {% include youtubePlayer.html id=page.youtubeId %}
+
+Below we show a simulation of a galactic disc with a resolved dynamo driven by feedback and accretion.
+
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 ```markdown
