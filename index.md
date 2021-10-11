@@ -1,3 +1,5 @@
+youtubeId: YFey9a4ZSmI
+
 ## Welcome to the Webpage of Dr. Ulrich Philipp Steinwandel!
 
 My Name is Ulrich Steinwandel but I go by Ulli. I am Flatiron Research Fellow at the Center for Computational Astrophysics (CCA) in New York. At CCA I am involved in the CAMELS and SMAUG collaboration. If you are interested to talk to me about my research or collaborating with me, please feel free to contact me at usteinwandel@flatironinstitute.org 
@@ -38,6 +40,8 @@ Morevoer, I derived an easy toy-model to evaluate if magnetic-driven outflows co
 ### Magnetic field amplification in the Intracluster medium
 
 ## Ongoing Projects
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ```markdown
 Syntax highlighted code block
