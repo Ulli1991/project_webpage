@@ -2,9 +2,14 @@
 youtubeId: YFey9a4ZSmI
 ---
 
+---
+youtubeId2: cPTjyYlVmD4
+---
+
 ## Welcome to the Webpage of Dr. Ulrich Philipp Steinwandel!
 
 Example:     youtubeId: YFey9a4ZSmI
+Example:     youtubeId2: cPTjyYlVmD4
 
 My Name is Ulrich Steinwandel but I go by Ulli. I am Flatiron Research Fellow at the Center for Computational Astrophysics (CCA) in New York. At CCA I am involved in the CAMELS and SMAUG collaboration. If you are interested to talk to me about my research or collaborating with me, please feel free to contact me at usteinwandel@flatironinstitute.org 
 
@@ -45,9 +50,10 @@ Morevoer, I derived an easy toy-model to evaluate if magnetic-driven outflows co
 
 ## Ongoing Projects
 
-Lets palce a video here
+Lets place a video here
 
 {% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.youtubeId2 %}
 
 ```markdown
 Syntax highlighted code block
