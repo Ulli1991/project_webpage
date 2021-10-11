@@ -1,10 +1,8 @@
 ---
 youtubeId: YFey9a4ZSmI
----
-
----
 youtubeId2: cPTjyYlVmD4
 ---
+
 
 ## Welcome to the Webpage of Dr. Ulrich Philipp Steinwandel!
 
