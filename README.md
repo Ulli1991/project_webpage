@@ -1,4 +1,4 @@
-# project_webpage
+# usteinwandel
 My project webpage
 
 This can be reached via https://ulli1991.github.io/usteinwandel/ 
