@@ -50,7 +50,7 @@ the complementary study with our state-of-the-art SPMHD code Gadget-3 and find e
 
 ## Ongoing Projects
 
-This will be updated soon!  
+This will be updated soon! 
 
 ## Gallery
 
@@ -58,11 +58,11 @@ Below one can see the cosmological evolution of a massive galaxy cluster ($$2 \c
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-Below we show a simulation of a galactic disc with a resolved dynamo driven by feedback and accretion.
+[comment]: <> Below we show a simulation of a galactic disc with a resolved dynamo driven by feedback and accretion.
 
-{% include youtubePlayer.html id=page.youtubeId2 %}
+[comment]: <> {% include youtubePlayer.html id=page.youtubeId2 %}
 
-## Scientific Talks and Public outreach
+[comment]: <> ## Scientific Talks and Public outreach
 
 ```markdown
 Syntax highlighted code block
