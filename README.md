@@ -1,5 +1,5 @@
 # usteinwandel
-My project webpage
+Computational Astrophysicist 
 
 This can be reached via https://ulli1991.github.io/usteinwandel/ 
 
