@@ -55,6 +55,3 @@ Below one can see the cosmological evolution of a massive galaxy cluster ($$2 \c
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
