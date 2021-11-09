@@ -50,7 +50,7 @@ the complementary study with our state-of-the-art SPMHD code Gadget-3 and find e
 
 ## Ongoing Projects
 
-This will be updated soon! 
+This will be updated soon! Stay tuned!
 
 ## Gallery
 
